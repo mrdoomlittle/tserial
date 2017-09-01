@@ -1,4 +1,4 @@
-# include <eint_t.hpp>
+# include <mdlint.h>
 # include <atomic>
 enum task_id {
 	TID_NONE,
